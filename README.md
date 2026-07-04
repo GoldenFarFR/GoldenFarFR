@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Bonjour, je suis GoldenFarFR
 
-<!--
-**GoldenFarFR/GoldenFarFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent AI Builder** — Je crée des **agents autonomes intelligents** sur **Virtual Protocol EconomyOS**.
 
-Here are some ideas to get you started:
+Actuellement je développe et fais tourner en live **Aria Vanguard ZHC** : un agent ACP complet avec son cerveau Python (`aria-core`) et son site [ariavanguardzhc.com](https://ariavanguardzhc.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projets phares
+- **[aria-acp-showcase](https://github.com/GoldenFarFR/aria-acp-showcase)** — Démo live d’agent ACP sur Virtual Protocol & EconomyOS
+- **[ARIA](https://github.com/GoldenFarFR/ARIA)** — Monorepo IA autonome (Python + FastAPI + site Vanguard)
+- **[template-grok-cursor](https://github.com/GoldenFarFR/template-grok-cursor)** — Template complet Grok + Cursor (conventions françaises)
+
+---
+
+### 🛠️ Stack technique
+**Python** · **TypeScript** · **ACP** · **EconomyOS** · **Grok** · **Cursor** · **MCP**
+
+---
+
+**Ouvert aux collaborations, retours techniques et builders motivés !**  
+N’hésite pas à me contacter si tu veux discuter agents autonomes ou Virtual Protocol.
+
+---
+
+**X :** [@GoldenFarFR](https://x.com/GoldenFarFR)  
+**Agent :** [@Aria_ZHC](https://x.com/Aria_ZHC)
