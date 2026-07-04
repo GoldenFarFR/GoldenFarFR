@@ -2,6 +2,8 @@
 
 **Independent AI Builder** — Creating autonomous intelligent agents on **Virtual Protocol EconomyOS**.
 
+**Niveau Spark actif** → **200 $/semaine** de crédits d’inférence gratuits pour faire tourner ARIA.
+
 Currently shipping **Aria Vanguard ZHC**: a live ACP agent with its Python brain (`aria-core`) and website [ariavanguardzhc.com](https://ariavanguardzhc.com).
 
 ---
