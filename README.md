@@ -1,30 +1,26 @@
-# 👋 Hello, I'm GoldenFarFR
+# GoldenFarFR
 
-**Independent AI Builder** — Creating autonomous intelligent agents on **Virtual Protocol EconomyOS**.
+**Independent AI Builder** — shipping live agents on [Virtual Protocol EconomyOS](https://os.virtuals.io/).
 
-**Niveau Spark actif** → **200 $/semaine** de crédits d’inférence gratuits pour faire tourner ARIA.
+## Spark delivery (en cours)
 
-Currently shipping **Aria Vanguard ZHC**: a live ACP agent with its Python brain (`aria-core`) and website [ariavanguardzhc.com](https://ariavanguardzhc.com).
+Virtuals Spark → **$200/week** inference credits → **live ACP agent** with escrow jobs on Base.
 
----
+| Proof | Link |
+|-------|------|
+| Hire agent | [Aria Vanguard ZHC on ACP](https://app.virtuals.io/acp/agents) |
+| Showcase repo | [aria-acp-showcase](https://github.com/GoldenFarFR/aria-acp-showcase) |
+| Showcase PR | [acp-cli-demos/showcase/aria-vanguard-zhc](https://github.com/GoldenFarFR/acp-cli-demos/tree/showcase/aria-vanguard-zhc) |
+| Site | [ariavanguardzhc.com](https://ariavanguardzhc.com) |
 
-### 🚀 Featured Projects
-- **[aria-acp-showcase](https://github.com/GoldenFarFR/aria-acp-showcase)** — Live ACP agent demo on Virtual Protocol & EconomyOS
-- **[ARIA](https://github.com/GoldenFarFR/ARIA)** — Autonomous AI monorepo (Python + FastAPI + Vanguard site)
-- **[template-grok-cursor](https://github.com/GoldenFarFR/template-grok-cursor)** — Full Grok + Cursor template with French conventions
+## Featured repos
 
----
+- **[aria-acp-showcase](https://github.com/GoldenFarFR/aria-acp-showcase)** — delivery proof + hire links (start here)
+- **[ARIA](https://github.com/GoldenFarFR/ARIA)** — `aria-core` brain + Vanguard API/site
+- **[acp-cli-demos](https://github.com/GoldenFarFR/acp-cli-demos)** — fork for Virtuals Showcase submission
 
-### 🛠️ Tech Stack
-**Python** · **TypeScript** · **ACP** · **EconomyOS** · **Grok** · **Cursor** · **MCP**
+## Stack
 
----
+Python · TypeScript · ACP · EconomyOS · Grok · Cursor
 
-**Open to collaborations**, technical reviews, and fellow builders!
-
-Feel free to reach out if you want to discuss autonomous agents or Virtual Protocol.
-
----
-
-**X :** [@GoldenFarFR](https://x.com/GoldenFarFR)  
-**Agent :** [@Aria_ZHC](https://x.com/Aria_ZHC)
+**X:** [@GoldenFarFR](https://x.com/GoldenFarFR) · **Agent:** [@Aria_ZHC](https://x.com/Aria_ZHC)
