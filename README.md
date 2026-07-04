@@ -1,25 +1,26 @@
-# 👋 Bonjour, je suis GoldenFarFR
+# 👋 Hello, I'm GoldenFarFR
 
-**Independent AI Builder** — Je crée des **agents autonomes intelligents** sur **Virtual Protocol EconomyOS**.
+**Independent AI Builder** — Creating autonomous intelligent agents on **Virtual Protocol EconomyOS**.
 
-Actuellement je développe et fais tourner en live **Aria Vanguard ZHC** : un agent ACP complet avec son cerveau Python (`aria-core`) et son site [ariavanguardzhc.com](https://ariavanguardzhc.com).
-
----
-
-### 🚀 Projets phares
-- **[aria-acp-showcase](https://github.com/GoldenFarFR/aria-acp-showcase)** — Démo live d’agent ACP sur Virtual Protocol & EconomyOS
-- **[ARIA](https://github.com/GoldenFarFR/ARIA)** — Monorepo IA autonome (Python + FastAPI + site Vanguard)
-- **[template-grok-cursor](https://github.com/GoldenFarFR/template-grok-cursor)** — Template complet Grok + Cursor (conventions françaises)
+Currently shipping **Aria Vanguard ZHC**: a live ACP agent with its Python brain (`aria-core`) and website [ariavanguardzhc.com](https://ariavanguardzhc.com).
 
 ---
 
-### 🛠️ Stack technique
+### 🚀 Featured Projects
+- **[aria-acp-showcase](https://github.com/GoldenFarFR/aria-acp-showcase)** — Live ACP agent demo on Virtual Protocol & EconomyOS
+- **[ARIA](https://github.com/GoldenFarFR/ARIA)** — Autonomous AI monorepo (Python + FastAPI + Vanguard site)
+- **[template-grok-cursor](https://github.com/GoldenFarFR/template-grok-cursor)** — Full Grok + Cursor template with French conventions
+
+---
+
+### 🛠️ Tech Stack
 **Python** · **TypeScript** · **ACP** · **EconomyOS** · **Grok** · **Cursor** · **MCP**
 
 ---
 
-**Ouvert aux collaborations, retours techniques et builders motivés !**  
-N’hésite pas à me contacter si tu veux discuter agents autonomes ou Virtual Protocol.
+**Open to collaborations**, technical reviews, and fellow builders!
+
+Feel free to reach out if you want to discuss autonomous agents or Virtual Protocol.
 
 ---
 
