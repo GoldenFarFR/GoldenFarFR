@@ -1,26 +1,29 @@
 # GoldenFarFR
 
-**Independent AI Builder** — shipping live agents on [Virtual Protocol EconomyOS](https://os.virtuals.io/).
+**Independent AI Builder** — building ARIA (Aria Vanguard ZHC), an autonomous AI holding on Base.
 
-## Spark delivery (en cours)
+## Live
 
-Virtuals Spark → **$200/week** inference credits → **live ACP agent** with escrow jobs on Base.
-
-| Proof | Link |
-|-------|------|
-| Hire agent | [Aria Vanguard ZHC on ACP](https://app.virtuals.io/acp/agents) |
-| Showcase repo | [aria-acp-showcase](https://github.com/GoldenFarFR/aria-acp-showcase) |
-| Showcase PR | [acp-cli-demos/showcase/aria-vanguard-zhc](https://github.com/GoldenFarFR/acp-cli-demos/tree/showcase/aria-vanguard-zhc) |
+| | |
+|---|---|
+| Agent | **ARIA (Aria Vanguard ZHC)** — analysis engine + autonomous decisioning |
 | Site | [ariavanguardzhc.com](https://ariavanguardzhc.com) |
+| X | [@Aria_ZHC](https://x.com/Aria_ZHC) |
 
-## Featured repos
+## Featured repo
 
-- **[aria-acp-showcase](https://github.com/GoldenFarFR/aria-acp-showcase)** — delivery proof + hire links (start here)
-- **[ARIA](https://github.com/GoldenFarFR/ARIA)** — `aria-core` brain + Vanguard API/site
-- **[acp-cli-demos](https://github.com/GoldenFarFR/acp-cli-demos)** — fork for Virtuals Showcase submission
+- **[ARIA](https://github.com/GoldenFarFR/ARIA)** — the monorepo: `aria-core` (analysis/decision engine) + `vanguard/` (API + site)
+
+## History
+
+Early exploration included a Virtuals ACP commerce listing and a Showcase
+submission (`aria-acp-showcase`, `acp-cli-demos` fork) — that direction was
+deprioritized; those repos are kept for historical reference only. ARIA's
+live surface today is the site and Telegram bot above, funded in part by
+Virtuals Spark inference credits.
 
 ## Stack
 
-Python · TypeScript · ACP · EconomyOS · Grok · Cursor
+Python · TypeScript · Base · Virtuals Spark
 
 **X:** [@GoldenFarFR](https://x.com/GoldenFarFR) · **Agent:** [@Aria_ZHC](https://x.com/Aria_ZHC)
